@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DH\\224\\224C#CB\\BT31_CCB\\BT31_CCB\\BT31_CCB.csproj": {}
+    "D:\\DH\\224\\224C#CB\\BT41_CCB\\BT41_CCB\\BT41_CCB.csproj": {}
   },
   "projects": {
-    "D:\\DH\\224\\224C#CB\\BT31_CCB\\BT31_CCB\\BT31_CCB.csproj": {
+    "D:\\DH\\224\\224C#CB\\BT41_CCB\\BT41_CCB\\BT41_CCB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DH\\224\\224C#CB\\BT31_CCB\\BT31_CCB\\BT31_CCB.csproj",
-        "projectName": "BT31_CCB",
-        "projectPath": "D:\\DH\\224\\224C#CB\\BT31_CCB\\BT31_CCB\\BT31_CCB.csproj",
+        "projectUniqueName": "D:\\DH\\224\\224C#CB\\BT41_CCB\\BT41_CCB\\BT41_CCB.csproj",
+        "projectName": "BT41_CCB",
+        "projectPath": "D:\\DH\\224\\224C#CB\\BT41_CCB\\BT41_CCB\\BT41_CCB.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\DH\\224\\224C#CB\\BT31_CCB\\BT31_CCB\\obj\\",
+        "outputPath": "D:\\DH\\224\\224C#CB\\BT41_CCB\\BT41_CCB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
