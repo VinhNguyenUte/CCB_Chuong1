@@ -12,3 +12,17 @@ D:\DH\224\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\refint\BT41_CCB.dll
 D:\DH\224\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.pdb
 D:\DH\224\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.genruntimeconfig.cache
 D:\DH\224\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\ref\BT41_CCB.dll
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\bin\Debug\net8.0\BT41_CCB.exe
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\bin\Debug\net8.0\BT41_CCB.deps.json
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\bin\Debug\net8.0\BT41_CCB.runtimeconfig.json
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\bin\Debug\net8.0\BT41_CCB.dll
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\bin\Debug\net8.0\BT41_CCB.pdb
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.AssemblyInfoInputs.cache
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.AssemblyInfo.cs
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.csproj.CoreCompileInputs.cache
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.dll
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\refint\BT41_CCB.dll
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.pdb
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\BT41_CCB.genruntimeconfig.cache
+D:\DH\backup\224C#CB\BT41_CCB\BT41_CCB\obj\Debug\net8.0\ref\BT41_CCB.dll
