@@ -9,15 +9,15 @@ namespace BT61_CCB
         {
             Console.OutputEncoding = Encoding.UTF8;
             Console.Write("Nhập số nguyên dương n: ");
-            int n = int.Parse(Console.ReadLine());
+            int bien223 = int.Parse(Console.ReadLine());
 
-            if (IsDecreasing(n))
+            if (IsDecreasing(bien223))
             {
-                Console.WriteLine($"{n} có các chữ số giảm dần từ trái sang phải.");
+                Console.WriteLine($"{bien223} có các chữ số giảm dần từ trái sang phải.");
             }
             else
             {
-                Console.WriteLine($"{n} KHÔNG có các chữ số giảm dần từ trái sang phải.");
+                Console.WriteLine($"{bien223} KHÔNG có các chữ số giảm dần từ trái sang phải.");
             }
             Console.ReadKey();
         }
