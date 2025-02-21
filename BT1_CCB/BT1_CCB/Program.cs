@@ -11,13 +11,13 @@ namespace BT1_CCB
             Console.Write("Nhập số nguyên dương n: ");
             int n = int.Parse(Console.ReadLine());
 
-            int sum = 0;
+            int bien223 = 0;
             for (int i = 1; i <= n; i++)
             {
-                sum += i;
+                bien223 += i;
             }
 
-            Console.WriteLine($"Tổng S({n}) = {sum}");
+            Console.WriteLine($"Tổng S({n}) = {bien223}");
             Console.ReadKey();
         }
 
