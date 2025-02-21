@@ -1,0 +1,14 @@
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\bin\Debug\net8.0\BT71_CCB.exe
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\bin\Debug\net8.0\BT71_CCB.deps.json
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\bin\Debug\net8.0\BT71_CCB.runtimeconfig.json
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\bin\Debug\net8.0\BT71_CCB.dll
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\bin\Debug\net8.0\BT71_CCB.pdb
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\BT71_CCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\BT71_CCB.AssemblyInfoInputs.cache
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\BT71_CCB.AssemblyInfo.cs
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\BT71_CCB.csproj.CoreCompileInputs.cache
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\BT71_CCB.dll
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\refint\BT71_CCB.dll
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\BT71_CCB.pdb
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\BT71_CCB.genruntimeconfig.cache
+D:\DH\224\224C#CB\BT71_CCB\BT71_CCB\obj\Debug\net8.0\ref\BT71_CCB.dll

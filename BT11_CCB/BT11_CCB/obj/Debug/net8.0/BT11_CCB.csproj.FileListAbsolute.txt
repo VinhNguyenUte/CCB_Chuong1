@@ -1,0 +1,14 @@
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\bin\Debug\net8.0\BT11_CCB.exe
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\bin\Debug\net8.0\BT11_CCB.deps.json
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\bin\Debug\net8.0\BT11_CCB.runtimeconfig.json
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\bin\Debug\net8.0\BT11_CCB.dll
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\bin\Debug\net8.0\BT11_CCB.pdb
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\BT11_CCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\BT11_CCB.AssemblyInfoInputs.cache
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\BT11_CCB.AssemblyInfo.cs
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\BT11_CCB.csproj.CoreCompileInputs.cache
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\BT11_CCB.dll
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\refint\BT11_CCB.dll
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\BT11_CCB.pdb
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\BT11_CCB.genruntimeconfig.cache
+D:\DH\224\224C#CB\BT11_CCB\BT11_CCB\obj\Debug\net8.0\ref\BT11_CCB.dll
