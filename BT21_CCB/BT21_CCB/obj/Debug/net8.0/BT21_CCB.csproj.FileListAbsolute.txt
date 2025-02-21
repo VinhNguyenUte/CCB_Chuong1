@@ -12,3 +12,17 @@ D:\DH\224\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\refint\BT21_CCB.dll
 D:\DH\224\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.pdb
 D:\DH\224\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.genruntimeconfig.cache
 D:\DH\224\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\ref\BT21_CCB.dll
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\bin\Debug\net8.0\BT21_CCB.exe
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\bin\Debug\net8.0\BT21_CCB.deps.json
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\bin\Debug\net8.0\BT21_CCB.runtimeconfig.json
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\bin\Debug\net8.0\BT21_CCB.dll
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\bin\Debug\net8.0\BT21_CCB.pdb
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.AssemblyInfoInputs.cache
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.AssemblyInfo.cs
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.csproj.CoreCompileInputs.cache
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.dll
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\refint\BT21_CCB.dll
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.pdb
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\BT21_CCB.genruntimeconfig.cache
+D:\DH\backup\224C#CB\BT21_CCB\BT21_CCB\obj\Debug\net8.0\ref\BT21_CCB.dll

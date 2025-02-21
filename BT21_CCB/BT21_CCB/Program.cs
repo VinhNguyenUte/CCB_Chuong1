@@ -11,20 +11,20 @@ namespace BT21_CCB
             Console.Write("Nhập số nguyên dương n: ");
             int n = int.Parse(Console.ReadLine());
 
-            int sum = 0;
+            int bien223 = 0;
             for (int i = 1; i * i <= n; i++) // Duyệt từ 1 đến √n
             {
                 if (n % i == 0) // Nếu i là ước của n
                 {
-                    sum += i; // Cộng ước số nhỏ hơn
+                    bien223 += i; // Cộng ước số nhỏ hơn
                     if (i != n / i) // Nếu ước số lớn hơn khác i (tránh trùng khi i * i = n)
                     {
-                        sum += n / i;
+                        bien223 += n / i;
                     }
                 }
             }
 
-            Console.WriteLine($"Tổng các ước số của {n} là: {sum}");
+            Console.WriteLine($"Tổng các ước số của {n} là: {bien223}");
             Console.ReadKey();
         }
 
