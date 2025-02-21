@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DH\\224\\224C#CB\\BT11_CCB\\",
+  "WorkspaceRootPath": "D:\\DH\\backup\\224C#CB\\BT11_CCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB596935-298D-47FF-899F-F1FDF4238C29}|BT11_CCB\\BT11_CCB.csproj|d:\\dh\\224\\224c#cb\\bt11_ccb\\bt11_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB596935-298D-47FF-899F-F1FDF4238C29}|BT11_CCB\\BT11_CCB.csproj|d:\\dh\\backup\\224c#cb\\bt11_ccb\\bt11_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB596935-298D-47FF-899F-F1FDF4238C29}|BT11_CCB\\BT11_CCB.csproj|solutionrelative:bt11_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DH\\224\\224C#CB\\BT11_CCB\\BT11_CCB\\Program.cs",
+              "DocumentMoniker": "D:\\DH\\backup\\224C#CB\\BT11_CCB\\BT11_CCB\\Program.cs",
               "RelativeDocumentMoniker": "BT11_CCB\\Program.cs",
-              "ToolTip": "D:\\DH\\224\\224C#CB\\BT11_CCB\\BT11_CCB\\Program.cs",
+              "ToolTip": "D:\\DH\\backup\\224C#CB\\BT11_CCB\\BT11_CCB\\Program.cs",
               "RelativeToolTip": "BT11_CCB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T16:07:57.538Z",
               "EditorCaption": ""

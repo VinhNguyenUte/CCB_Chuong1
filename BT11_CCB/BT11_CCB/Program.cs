@@ -11,15 +11,15 @@ namespace BT11_CCB
             Console.Write("Nhập số nguyên dương n: ");
             int n = int.Parse(Console.ReadLine());
 
-            long sum = 0;
+            long bien223 = 0;
             long factorial = 1; // Giai thừa
             for (int i = 1; i <= n; i++)
             {
                 factorial *= i; // Tính giai thừa i!
-                sum += factorial; // Cộng vào tổng
+                bien223 += factorial; // Cộng vào tổng
             }
 
-            Console.WriteLine($"Tổng S({n}) = {sum}");
+            Console.WriteLine($"Tổng S({n}) = {bien223}");
             Console.ReadKey();
         }
 
