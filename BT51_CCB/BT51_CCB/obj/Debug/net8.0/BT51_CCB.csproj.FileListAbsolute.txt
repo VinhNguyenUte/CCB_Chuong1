@@ -1,0 +1,14 @@
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\bin\Debug\net8.0\BT51_CCB.exe
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\bin\Debug\net8.0\BT51_CCB.deps.json
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\bin\Debug\net8.0\BT51_CCB.runtimeconfig.json
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\bin\Debug\net8.0\BT51_CCB.dll
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\bin\Debug\net8.0\BT51_CCB.pdb
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\BT51_CCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\BT51_CCB.AssemblyInfoInputs.cache
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\BT51_CCB.AssemblyInfo.cs
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\BT51_CCB.csproj.CoreCompileInputs.cache
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\BT51_CCB.dll
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\refint\BT51_CCB.dll
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\BT51_CCB.pdb
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\BT51_CCB.genruntimeconfig.cache
+D:\DH\224\224C#CB\BT51_CCB\BT51_CCB\obj\Debug\net8.0\ref\BT51_CCB.dll

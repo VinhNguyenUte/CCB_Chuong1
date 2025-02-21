@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\DH\\224\\224C#CB\\BT51_CCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{204C8707-D942-48ED-8828-4156C40A2513}|BT51_CCB\\BT51_CCB.csproj|d:\\dh\\224\\224c#cb\\bt51_ccb\\bt51_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204C8707-D942-48ED-8828-4156C40A2513}|BT51_CCB\\BT51_CCB.csproj|solutionrelative:bt51_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1B0E26E-D152-4E18-B750-4FE3B53B60D7}|BT51_CCB\\BT51_CCB.csproj|d:\\dh\\224\\224c#cb\\bt51_ccb\\bt51_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B0E26E-D152-4E18-B750-4FE3B53B60D7}|BT51_CCB\\BT51_CCB.csproj|solutionrelative:bt51_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "BT51_CCB\\Program.cs",
               "ToolTip": "D:\\DH\\224\\224C#CB\\BT51_CCB\\BT51_CCB\\Program.cs",
               "RelativeToolTip": "BT51_CCB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:19:18.338Z",
+              "WhenOpened": "2025-02-20T16:14:50.239Z",
               "EditorCaption": ""
             }
           ]
