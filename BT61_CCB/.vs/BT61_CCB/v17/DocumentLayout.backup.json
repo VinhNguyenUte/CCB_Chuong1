@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\DH\\224\\224C#CB\\BT61_CCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3311628A-FC57-4F00-B764-4E0C0433D5F1}|BT61_CCB\\BT61_CCB.csproj|d:\\dh\\224\\224c#cb\\bt61_ccb\\bt61_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3311628A-FC57-4F00-B764-4E0C0433D5F1}|BT61_CCB\\BT61_CCB.csproj|solutionrelative:bt61_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3858B3AD-466A-481D-8D8C-E12295675D2A}|BT61_CCB\\BT61_CCB.csproj|d:\\dh\\224\\224c#cb\\bt61_ccb\\bt61_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3858B3AD-466A-481D-8D8C-E12295675D2A}|BT61_CCB\\BT61_CCB.csproj|solutionrelative:bt61_ccb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
               "RelativeToolTip": "BT61_CCB\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:19:30.413Z",
+              "WhenOpened": "2025-02-20T16:16:06.854Z",
               "EditorCaption": ""
             }
           ]
