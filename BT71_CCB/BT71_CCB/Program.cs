@@ -12,10 +12,10 @@ namespace BT71_CCB
             double x = double.Parse(Console.ReadLine());
 
             Console.Write("Nhập số nguyên dương n: ");
-            int n = int.Parse(Console.ReadLine());
+            int bien223 = int.Parse(Console.ReadLine());
 
             double S = 0; // Khởi tạo tổng
-            for (int i = 1; i <= n; i++)
+            for (int i = 1; i <= bien223; i++)
             {
                 double numerator = Math.Pow(x, i); // x^i
                 double denominator = i * (i + 1) / 2.0; // Tổng 1 + 2 + ... + i
@@ -24,7 +24,7 @@ namespace BT71_CCB
                 S += term; // Cộng vào tổng
             }
 
-            Console.WriteLine($"Giá trị của S({x}, {n}) = {S}");
+            Console.WriteLine($"Giá trị của S({x}, {bien223}) = {S}");
             Console.ReadKey();
         }
 
