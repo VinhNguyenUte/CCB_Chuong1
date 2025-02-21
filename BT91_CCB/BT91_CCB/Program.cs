@@ -10,9 +10,9 @@ namespace BT91_CCB
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("Các số nguyên dương lẻ nhỏ hơn 100:");
 
-            for (int i = 1; i < 100; i += 2)
+            for (int bien223 = 1; bien223 < 100; bien223 += 2)
             {
-                Console.Write(i + " ");
+                Console.Write(bien223 + " ");
             }
             Console.ReadKey();
         }

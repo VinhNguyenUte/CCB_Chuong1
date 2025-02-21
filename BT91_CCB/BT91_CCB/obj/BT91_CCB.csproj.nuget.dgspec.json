@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DH\\224\\224C#CB\\BT91_CCB\\BT91_CCB\\BT91_CCB.csproj": {}
+    "D:\\DH\\backup\\224C#CB\\BT91_CCB\\BT91_CCB\\BT91_CCB.csproj": {}
   },
   "projects": {
-    "D:\\DH\\224\\224C#CB\\BT91_CCB\\BT91_CCB\\BT91_CCB.csproj": {
+    "D:\\DH\\backup\\224C#CB\\BT91_CCB\\BT91_CCB\\BT91_CCB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DH\\224\\224C#CB\\BT91_CCB\\BT91_CCB\\BT91_CCB.csproj",
+        "projectUniqueName": "D:\\DH\\backup\\224C#CB\\BT91_CCB\\BT91_CCB\\BT91_CCB.csproj",
         "projectName": "BT91_CCB",
-        "projectPath": "D:\\DH\\224\\224C#CB\\BT91_CCB\\BT91_CCB\\BT91_CCB.csproj",
+        "projectPath": "D:\\DH\\backup\\224C#CB\\BT91_CCB\\BT91_CCB\\BT91_CCB.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\DH\\224\\224C#CB\\BT91_CCB\\BT91_CCB\\obj\\",
+        "outputPath": "D:\\DH\\backup\\224C#CB\\BT91_CCB\\BT91_CCB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
