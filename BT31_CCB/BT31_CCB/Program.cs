@@ -8,15 +8,15 @@ internal class Program
     {
         Console.OutputEncoding = Encoding.UTF8;
         Console.Write("Nhập số nguyên dương n: ");
-        int n = int.Parse(Console.ReadLine());
+        int bien223 = int.Parse(Console.ReadLine());
 
-        if (IsPrime(n))
+        if (IsPrime(bien223))
         {
-            Console.WriteLine($"{n} là số nguyên tố.");
+            Console.WriteLine($"{bien223} là số nguyên tố.");
         }
         else
         {
-            Console.WriteLine($"{n} không phải là số nguyên tố.");
+            Console.WriteLine($"{bien223} không phải là số nguyên tố.");
         }
         Console.ReadKey();
     }

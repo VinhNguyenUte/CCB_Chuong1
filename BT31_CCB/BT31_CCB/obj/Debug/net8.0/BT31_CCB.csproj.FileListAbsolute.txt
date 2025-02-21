@@ -12,3 +12,17 @@ D:\DH\224\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\refint\BT31_CCB.dll
 D:\DH\224\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.pdb
 D:\DH\224\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.genruntimeconfig.cache
 D:\DH\224\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\ref\BT31_CCB.dll
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\bin\Debug\net8.0\BT31_CCB.exe
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\bin\Debug\net8.0\BT31_CCB.deps.json
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\bin\Debug\net8.0\BT31_CCB.runtimeconfig.json
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\bin\Debug\net8.0\BT31_CCB.dll
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\bin\Debug\net8.0\BT31_CCB.pdb
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.AssemblyInfoInputs.cache
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.AssemblyInfo.cs
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.csproj.CoreCompileInputs.cache
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.dll
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\refint\BT31_CCB.dll
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.pdb
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\BT31_CCB.genruntimeconfig.cache
+D:\DH\backup\224C#CB\BT31_CCB\BT31_CCB\obj\Debug\net8.0\ref\BT31_CCB.dll
