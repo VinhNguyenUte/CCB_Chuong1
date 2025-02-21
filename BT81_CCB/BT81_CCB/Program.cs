@@ -17,14 +17,14 @@ namespace BT81_CCB
             Console.Write("Nhập số c: ");
             double c = double.Parse(Console.ReadLine());
 
-            double max = a; // Giả sử a là số lớn nhất
+            double bien223 = a; // Giả sử a là số lớn nhất
 
-            if (b > max)
-                max = b;
-            if (c > max)
-                max = c;
+            if (b > bien223)
+                bien223 = b;
+            if (c > bien223)
+                bien223 = c;
 
-            Console.WriteLine($"Số lớn nhất trong 3 số là: {max}");
+            Console.WriteLine($"Số lớn nhất trong 3 số là: {bien223}");
             Console.ReadKey();
         }
 

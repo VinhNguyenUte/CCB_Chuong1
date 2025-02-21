@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DH\\224\\224C#CB\\BT81_CCB\\BT81_CCB\\BT81_CCB.csproj",
+      "projectUniqueName": "D:\\DH\\backup\\224C#CB\\BT81_CCB\\BT81_CCB\\BT81_CCB.csproj",
       "projectName": "BT81_CCB",
-      "projectPath": "D:\\DH\\224\\224C#CB\\BT81_CCB\\BT81_CCB\\BT81_CCB.csproj",
+      "projectPath": "D:\\DH\\backup\\224C#CB\\BT81_CCB\\BT81_CCB\\BT81_CCB.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\DH\\224\\224C#CB\\BT81_CCB\\BT81_CCB\\obj\\",
+      "outputPath": "D:\\DH\\backup\\224C#CB\\BT81_CCB\\BT81_CCB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
